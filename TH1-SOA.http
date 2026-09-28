@@ -1,0 +1,6 @@
+@TH1_SOA_HostAddress = http://localhost:5067
+
+GET {{TH1_SOA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
